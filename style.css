@@ -3,7 +3,7 @@
     
 }
 body{
-    margin: 40px;
+    
     color: black;
     font-family: 'Poppins', sans-serif;
 }
@@ -104,4 +104,22 @@ span{
 }
 .section4-div{
     padding: 10px 5px;  
+}
+.end-button{
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 5px 10px;
+   
+    
+}
+footer p{
+    font-size: 15px;
+}
+#button-2022{
+    color: red;
+}
+#end-h1{
+    font-family: 'Source Serif Pro', serif;
+    font-style: italic;
 }
