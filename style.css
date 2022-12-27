@@ -90,3 +90,18 @@ span{
     padding: 10px 5px;
 
 }
+#section4-bg{
+    background-image: url(images/shapes/shape-1.png);
+    background-position:right;
+    background-repeat: no-repeat;
+    background-size: 50%;
+    padding-bottom: 60%;
+}
+.section4-img{
+    width: 80%;
+    margin-right: 5%;
+    padding-right: 20%;
+}
+.section4-div{
+    padding: 10px 5px;  
+}
